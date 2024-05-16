@@ -23,8 +23,8 @@ Inicialmente, seu sistema deve possuir as seguintes classes:
     - Métodos de acesso: crie os métodos de acesso (getters e setters) para todos os atributos da classe.
     - Método toString: se necessário, pesquise sobre o método toString e implemente-o nesta classe, retornando uma String formatada da forma que você desejar, desde que contenha as informações de todos os atributos da classe.
     - Método gastosComSalario: este método não recebe parâmetros e retorna quanto a loja gasta com o salário de todos os seus funcionários.
-    > [!IMPORTANT]
-    > Atente para o fato de que não é possível realizar este cálculo caso o valor do salário base seja -1. Neste caso, não realize o cálculo e retorne -1.
+> [!IMPORTANT]
+> Atente para o fato de que não é possível realizar este cálculo caso o valor do salário base seja -1. Neste caso, não realize o cálculo e retorne -1.
     - Método tamanhoDaLoja: este método não recebe parâmetros e retorna um dos seguintes caracteres: ‘P’, caso a loja possua menos de 10 funcionários; ‘M’, caso a loja possua entre 10 (inclusive) e 30 (inclusive)  funcionários; ou ‘G’, caso a loja possua mais do que 31 (inclusive) funcionários.
 
 ### Produto: 
