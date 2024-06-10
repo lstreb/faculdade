@@ -9,6 +9,7 @@ Programe o código para o fluxograma abaixo:
 
 ## atividade 03
 Programe o código para o fluxograma abaixo:
+
 <img src="imagens/ex03.png" width="500px">
 
 ## atividade 04
