@@ -1,10 +1,12 @@
 # atividades
 ## atividade 01
 Programe o código para o fluxograma abaixo:
+
 <img src="imagens/ex01.png" width="500px">
 
 ## atividade 02
 Programe o código para o fluxograma abaixo:
+
 <img src="imagens/ex02.png" width="500px">
 
 ## atividade 03
